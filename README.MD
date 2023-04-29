@@ -1,6 +1,6 @@
 # Livros e Cursos para estudar Python
 
-<h2>Livro Problemas clássicos da computação com Python(Classic Computer Science Problems in Python)</h2>
+<h4>Livro Problemas clássicos da computação com Python(Classic Computer Science Problems in Python)</h4>
 <br>Autor: David Kopec
 
 Curso gratuito de Python do canal Fessor Bruno:
