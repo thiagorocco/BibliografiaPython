@@ -3,7 +3,7 @@
 <h4>Livro Problemas clássicos da computação com Python(Classic Computer Science Problems in Python)</h4>
 Autor: David Kopec
 <h4>Curso gratuito de Python do canal Fessor Bruno:</h4>
-<br>Link: https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR
+Link: https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR
 <h4>Curso gratuito de Python do site Python Progressivo:</h4>
 Link: https://www.pythonprogressivo.net/
 <h4>Formação Python Developer da DIO:</h4>
