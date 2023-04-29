@@ -11,3 +11,7 @@ Link: https://www.dio.me/bootcamp/formacao-python-developer
 <h4>Curso Desenvolvedor Full Stack Python da DIO:</h4>
 Link: https://www.dio.me/bootcamp/desenvolvedor-fullstack-python?utm_medium=organic&utm_source=whatsapp
 
+# Aqui temos uma nova alteração, por favor analisar se isso procede para anexar junto à branch main
+Cursos de desenvolvimento pessoal: Udemy e Livros de Auto-ajuda
+Cursos de marketing pessoal: Udemy
+
